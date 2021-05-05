@@ -3,3 +3,5 @@ add secrets to github
 ammend hello world
 kkkkkk
 llllll
+Error Message -  Unexpected input(s) 'username', 'password', 'repository', 'tag_with_ref', valid inputs are ['allow', 'build-args', 'builder', 'cache-from', 'cache-to', 'context', 'file', 'labels', 'load', 'network', 'no-cache', 'outputs', 'platforms', 'pull', 'push', 'secrets', 'secret-files', 'ssh', 'tags', 'target', 'github-token']
+What did i do to get over this?
