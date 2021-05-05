@@ -28,5 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: leoncarrington/leonhelloworld-ruby-app
+          tags: leoncarrington/leonhelloworld-ruby-app:latest
         
