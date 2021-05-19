@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       COMPOSE_FILE: ./docker-compose.yml
-      DOCKER_USER: ${{ secrets.DOCKER_USER }}
-      DOCKER_PASS: ${{ secrets.DOCKER_PASS }}
+      DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
+      DOCKER_PASS: ${{ secrets.DOCKER_PASSWORD }}
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
