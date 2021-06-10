@@ -22,4 +22,4 @@ jobs:
      #- name: Run tests
        # run: bundle exec rake
       - name: run ruby app
-        run: ruby app.rb  
+        run:  app.rb  
